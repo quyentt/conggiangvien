@@ -1,0 +1,21 @@
+@import "bootstrap.min.css";
+@import url('fonts.css');
+@import url('swiper-bundle.min.css');
+@import "awesome-5.min.css";
+@import "slick.css";
+@import "select2.min.css";
+@import "all.css";
+@import "login.css";
+@import "1cuaSV.css";
+@import "register-school.css";
+@import "gochoctap.css";
+@import "tai-chinh.css";
+@import "ketquadangky.css";
+@import "news.css";
+@import "study-program.css";
+@import "my-calendar.css";
+@import "dangkyhoc-nguyenvong.css";
+
+/*------------------*/
+
+@import "responsive.css";
