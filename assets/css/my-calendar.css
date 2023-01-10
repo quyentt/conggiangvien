@@ -650,3 +650,91 @@
     flex: 1;
     max-width: 600px;
 }
+
+
+/* dev edit */
+
+#my_calendar .modal-lg {
+    max-width: 900px;
+}
+
+.calendar-modal-title {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    line-height: 26px;
+}
+
+.calendar-modal-meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-size: 14px;
+    margin-top: 15px;
+    margin-bottom: 40px;
+}
+
+.calendar-modal-meta .left {
+    margin-right: 85px;
+}
+
+.calendar-modal-meta .item {
+    margin-bottom: 10px;
+}
+
+.calendar-modal-meta .item span {
+    color: #666666;
+    width: 85px;
+    display: inline-block;
+}
+
+.calendar-modal-table {
+    margin-top: 10px;
+}
+
+.calendar-modal-table thead {
+    background: #f1f1f1;
+}
+
+.calendar-modal-table thead th {
+    border: none;
+}
+
+
+/* lich thi */
+
+.top-gray {
+    background: #f4f4f4;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.top-gray-wrapper {
+    display: flex;
+    width: 100%;
+    padding: 15px;
+    align-items: center;
+}
+
+.top-gray-wrapper label {
+    flex-shrink: 0;
+    font-size: 14px;
+    margin-right: 15px;
+    width: 60px;
+}
+
+.top-gray-wrapper .form-group {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    max-width: 375px;
+}
+
+.top-gray-wrapper .form-group .form-item {
+    width: 100%;
+    margin-right: 15px;
+}
+
+.no-icon .form-select {
+    padding-left: 15px;
+}
